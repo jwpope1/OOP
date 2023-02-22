@@ -1,12 +1,12 @@
 .venv/
-BankAccountClass/
-BankAccountProgram/
-Coin Toss/
-CoinClass/
-coinToss2/
-InsectClass/
-InsectClassSol/
-InsectProgramSol/
-InsectProgram/
-StudentClass/
-StudentProgram/
+.BankAccountClass/
+.BankAccountProgram/
+.Coin Toss/
+.CoinClass/
+.coinToss2/
+.InsectClass/
+.InsectClassSol/
+.InsectProgramSol/
+.InsectProgram/
+.StudentClass/
+.StudentProgram/
