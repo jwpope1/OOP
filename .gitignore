@@ -1,12 +1,12 @@
 .venv/
-.BankAccountClass/
-.BankAccountProgram/
-.Coin Toss/
-.CoinClass/
-.coinToss2/
-.InsectClass/
-.InsectClassSol/
-.InsectProgramSol/
-.InsectProgram/
-.StudentClass/
-.StudentProgram/
+BankAccountClass.py/
+BankAccountProgram.py/
+Coin Toss.py/
+CoinClass.py/
+coinToss2.py/
+InsectClass.py/
+InsectClassSol.py/
+InsectProgramSol.py/
+InsectProgram.py/
+StudentClass.py/
+StudentProgram.py/
